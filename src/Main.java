@@ -64,7 +64,7 @@ public class Main {
                     return;
             }
             System.out.print("Данный результат: ");
-            System.out.printf(num1 + " " + " " + num2 + " = " + ans);
+            System.out.printf(num1 + num2 + " = " + ans);
         }
     }
 }
